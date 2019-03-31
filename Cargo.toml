@@ -1,0 +1,9 @@
+[package]
+name = "kpi_crypto"
+version = "0.1.0"
+authors = ["Igor Boyarshin <igor.boyarshin@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rust-dense-bitset = "0.1.1"
+rand = "0.6.5"
